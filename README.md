@@ -16,3 +16,5 @@ The Glorious Glasgow Haskell Compilation System, version 8.10.7
 
 
 https://en.wikipedia.org/wiki/Zero-sum_game
+
+https://www.researchgate.net/publication/23751565_Best_Play_in_Fanorona_Leads_to_Draw
